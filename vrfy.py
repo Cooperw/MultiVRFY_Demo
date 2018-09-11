@@ -4,8 +4,8 @@
 #Origional Skeleton Provided By: https://www.offensive-security.com
 
 #*** WARNING ***
-#Use on a host without prior authorization may be illegal
-#use responsibly and with caution.
+#Use on a host without prior authorization MAY be illegal.
+#Use responsibly and with caution.
 
 import socket
 import sys
