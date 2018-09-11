@@ -26,4 +26,4 @@ root@10.100.0.2
 [*] Execution took 34.1754479408 seconds.
 ```
 
-The subprocess call starts vrfy.py whos skeleton orgionated from https://www.offensive-security.com.
+The subprocess call starts vrfy.py whos skeleton originated from https://www.offensive-security.com.
