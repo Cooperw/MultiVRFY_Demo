@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 #Written By: Cooper Wiegand
+#Origional Skeleton Provided By: https://www.offensive-security.com
 
 #*** WARNING ***
 #Use on a host without prior authorization may be illegal
