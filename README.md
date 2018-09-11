@@ -6,6 +6,8 @@ A script I whipped up to quickly scan vulnerable mail servers for data using pyt
 ***Use on a host without prior authorization may be illegal.
 Please use responsibly and with caution. These scripts where developed in a private lab enviroment and are not to be used on the open net.***
 
+The list of hosts is simply a collection of ips with port 25 open.
+
 Example output
 ```
 cwiegand@kali:~$ python multiVrfy.py users hosts
